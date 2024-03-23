@@ -21,11 +21,11 @@ O projeto foi modularizado em clean architecture com os seguintes modulos:
 </ul>
 
 Para rodar o projeto basta digitar :
-"""
+```
 npm start
-"""
+```
 
 Para testar a aplicação basta digitar : 
-"""
+```
 npm test
-"""
+```
